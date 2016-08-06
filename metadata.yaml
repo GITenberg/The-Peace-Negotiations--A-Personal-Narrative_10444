@@ -1,0 +1,30 @@
+_repo: The-Peace-Negotiations--A-Personal-Narrative_10444
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lansing, Robert
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '3538'
+    url: http://www.gutenberg.org/2009/agents/3538
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Lansing
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'League of Nations'
+- !lcsh 'Paris Peace Conference (1919-1920)'
+- !lcsh 'Wilson, Woodrow, 1856-1924'
+- !lcc 'D501'
+- GITenberg
+title: 'The Peace Negotiations: A Personal Narrative'
+url: http://www.gutenberg.org/ebooks/10444
